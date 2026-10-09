@@ -70,4 +70,22 @@ C++ Developer | Computer Science Student
 
 ### 6. Sort Students by Score
 ![Sort Students](screenshots/06-sort-students.png)
-  
+  ## How to Run
+
+### Requirements
+- C++ compiler (G++)
+- Visual Studio Code or another code editor
+
+### Compile
+```bash
+g++ main.cpp Student.cpp -o StudentManagement.exe
+```
+
+### Run
+On Windows PowerShell:
+```powershell
+.\StudentManagement.exe
+```
+
+### Usage
+Select an option from 1 to 8 in the console menu to manage student records.

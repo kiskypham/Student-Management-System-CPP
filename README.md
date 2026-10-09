@@ -50,3 +50,24 @@ Through this project, I practiced C++ programming, working with classes and obje
 
 ## Author
 C++ Developer | Computer Science Student
+
+## Project Screenshots
+
+### 1. Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### 2. Add Student
+![Add Student](screenshots/02-add-student.png)
+
+### 3. Student List
+![Student List](screenshots/03-student-list.png)
+
+### 4. Search Student
+![Search Student](screenshots/04-search-student.png)
+
+### 5. Update Student
+![Update Student](screenshots/05-update-student.png)
+
+### 6. Sort Students by Score
+![Sort Students](screenshots/06-sort-students.png)
+  
